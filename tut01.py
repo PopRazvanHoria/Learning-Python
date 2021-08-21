@@ -1,0 +1,1 @@
+print("Hi there I am starting my million dolars journey")
